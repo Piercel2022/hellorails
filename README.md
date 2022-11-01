@@ -33,14 +33,11 @@ cd hellorails
 ```
 rails server
 ```
-
-
-
 ## Author
 
-- GitHub: [@githubhandle](https://github.com/Piercel2022)
-- Twitter: [@twitterhandle](https://twitter.com/pier_celestin)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/piercelestinmax)
+- GitHub: [@Piercel2022](https://github.com/Piercel2022)
+- Twitter: [@pier_celestin](https://twitter.com/pier_celestin)
+- LinkedIn: [@piercelestinmax](https://linkedin.com/in/piercelestinmax)
 
 
 ## 🤝 Contributing
