@@ -1,5 +1,5 @@
 ## Hellorails
-This project say "hello" to the server side web application framework: Rails
+The "Hello World" from the server side web application framework: Rails
 
 ## Built With
 
